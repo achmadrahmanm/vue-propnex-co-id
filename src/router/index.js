@@ -27,6 +27,21 @@ const routes = [
         path: '/about',
         name: 'about.index',
         component: () => import( /* webpackChunkName: "edit" */ '../views/about/index.vue')
+    },
+    {
+        path: '/agent',
+        name: 'agent.index',
+        component: () => import( /* webpackChunkName: "edit" */ '../views/agent/index.vue')
+    },
+    {
+        path: '/project',
+        name: 'project.index',
+        component: () => import( /* webpackChunkName: "edit" */ '../views/project/index.vue')
+    },
+    {
+        path: '/property',
+        name: 'property.index',
+        component: () => import( /* webpackChunkName: "edit" */ '../views/property/index.vue')
     }
 ]
 

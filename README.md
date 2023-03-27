@@ -1,9 +1,9 @@
-<p>project git ini cuma frontend vue aja, buat biar ada backednya clone sekalian project ini: https://github.com/achmadrahmanm/laravel10-api</p>
+<p>project git ini cuma frontend vue aja, untuk API pakai urlnya propnex indonesia atau https://vo.propnex.id:81/</p>
 
 <p>just run : npm run dev</a>
 
 <p>Finish app looks like</p>
-<img src="https://github.com/achmadrahmanm/vue3-crud/blob/master/public/finish-app.JPG" />
+<a href="https://propnexplus.com/"></a>
 
 ################################################################################
 
